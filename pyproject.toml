@@ -1,0 +1,10 @@
+[project]
+name = "semver-auto-releaser"
+version = "0.1.0"
+description = "Automated semantic version releases driven by Conventional Commits"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
